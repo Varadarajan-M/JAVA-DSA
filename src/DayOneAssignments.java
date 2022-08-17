@@ -23,6 +23,7 @@ public class DayOneAssignments {
         * In the above task when giving a number as input, nextInt() reads only one int and does not finish the line.
         * so the below workaround is required to wait for the string input.
         * */
+
         sc.nextLine();
         System.out.println("Hey there! What's your good name?");
         String name = sc.nextLine();
