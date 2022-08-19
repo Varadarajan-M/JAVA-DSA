@@ -237,7 +237,8 @@ public class DayTwoAssignments {
             System.out.println("Enter a number");
             int newNum = sc.nextInt();
             if(newNum == 0){
-                System.out.println(" Sum of negative no.s : " + sumNe + " Sum of Positive even no.s : " + sumPE + " Sum of Positive odd no.s : " + sumPO);
+                System.out.println(" Sum of negative no.s : "
+                        + sumNe + " Sum of Positive even no.s : " + sumPE + " Sum of Positive odd no.s : " + sumPO);
                 break;
             } else if (newNum > 0) {
                     if(newNum % 2 == 0) sumPE += newNum;
@@ -249,5 +250,18 @@ public class DayTwoAssignments {
         }
 
 
+        // 22.Print day of a week using enhanced switch
+
+        System.out.println("Enter a number from 1-7");
+        switch (sc.nextInt()) {
+            case 1 -> System.out.println("Sunday");
+            case 2 -> System.out.println("Monday");
+            case 3 -> System.out.println("Tuesday");
+            case 4 -> System.out.println("Wednesday");
+            case 5 -> System.out.println("Thursday");
+            case 6 -> System.out.println("Friday");
+            case 7 -> System.out.println("Saturday");
+            default -> System.out.println("Invalid Input");
+        }
     }
 }
