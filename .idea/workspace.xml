@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6e1c469-0a50-4a2b-a866-83220176c1c8" name="Changes" comment="Day 2 Assignments - In Progress">
-      <change afterPath="$PROJECT_DIR$/src/DayThreeAssignments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DayFourAssignments.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DayTwoAssignments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DayTwoAssignments.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,14 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DayThreeAssignments">
+  <component name="RunManager" selected="Application.DayFourAssignments">
+    <configuration name="DayFourAssignments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DayFourAssignments" />
+      <module name="Java DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DayOneAssignments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DayOneAssignments" />
       <module name="Java DSA" />
@@ -62,6 +68,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DayFourAssignments" />
         <item itemvalue="Application.DayThreeAssignments" />
         <item itemvalue="Application.DayTwoAssignments" />
         <item itemvalue="Application.DayOneAssignments" />
